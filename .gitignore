@@ -1,3 +1,6 @@
+
+*.json
+
 # Node modules and dependencies
 node_modules/
 

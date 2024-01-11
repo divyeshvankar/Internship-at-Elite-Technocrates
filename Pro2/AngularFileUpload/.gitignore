@@ -1,6 +1,8 @@
 # Node modules and dependencies
 node_modules/
 
+*.json
+
 # Compiled output
 dist/
 tmp/

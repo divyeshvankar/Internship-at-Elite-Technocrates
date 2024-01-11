@@ -1,0 +1,167 @@
+# Node modules and dependencies
+node_modules/
+
+*.json
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+
+# Sensitive or environment-specific files
+src/environments/*.ts
+src/environments/*.prod.ts
+src/environments/*.stage.ts
+src/environments/*.dev.ts
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and debugging data
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ngsw.json
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# TypeScript configuration
+*.tsbuildinfo
+
+# Generated files
+*.js
+*.js.map
+*.d.ts
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono)
+*.userprefs
+
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.ntvs*
+*.nupkg
+*.pfx
+*.snk
+*.bak
+*.Cache
+*.log
+*.vspscc
+*.vsp
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
